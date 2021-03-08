@@ -54,11 +54,11 @@ p {
 
 /* change link reaction */
 
-a {
+
   a:link {color:blue; }
   a:visited {color:pink; }
   a:hover {color:grey; }
   a:active {color:purple; }
-}
+
 
 
