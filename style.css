@@ -1,5 +1,5 @@
 body {
-  margin: 1;
+  margin: 0;
   background-color: white;
 
 }
@@ -13,7 +13,7 @@ header {
 
 
 
-
+<!== change header 1-->
 h1 {
   color: blue;
   font-family: 'Courier New', Courier, monospace;
@@ -21,7 +21,7 @@ h1 {
   letter-spacing:6px;
   text-align: center;
 }
-
+<!== change header 2-->
 h2 {
   color: red;
   font-family: 'Courier New', Courier, monospace;
@@ -30,6 +30,7 @@ h2 {
   text-align:center;
 
 }
+<!== change header 3-->
 h3 {
   color: green;
   font-family: 'Courier New', Courier, monospace;
@@ -38,7 +39,7 @@ h3 {
   text-align:left;
 
 }
-
+<!== change paragraphs-->
 p {
   color: brown;
   font-family: 'Courier New', Courier, monospace;
@@ -51,7 +52,7 @@ p {
 
 }
 
-
+<!== linked colors-->
   a:link {color:blue; }
   a:visited {color:pink; }
   a:hover {color:grey; }
